@@ -8,11 +8,7 @@ The goal isn't to collect the most links. It's to find software that's genuinely
 
 Browse by category
 
-- "Video & Audio" (categories/media.md)
-- "Development Tools" (categories/development.md)
-- "Productivity" (categories/productivity.md)
-- "Privacy & Security" (categories/privacy.md)
-- "Self-Hosting" (categories/self-hosting.md)
+- "Videos and Apps" - categories/videomedia.md
 
 More categories coming soon.
 
